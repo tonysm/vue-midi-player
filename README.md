@@ -1,5 +1,7 @@
 # midi-player
 
+[Demo](https://tonysm.github.io/vue-midi-player/)
+
 ## Project setup
 ```
 yarn install
